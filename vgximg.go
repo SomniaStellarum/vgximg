@@ -3,7 +3,7 @@
 package vgximg
 
 import (
-	"code.google.com/p/draw2d/draw2d"
+	"github.com/llgcode/draw2d"
 	"code.google.com/p/plotinum/vg"
 	"fmt"
 	"github.com/BurntSushi/xgbutil"
